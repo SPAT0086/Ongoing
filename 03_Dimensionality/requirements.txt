@@ -1,0 +1,8 @@
+astroML
+matplotlib
+numpy
+pylab
+pooch
+scipy
+sklearn
+vip_hci
