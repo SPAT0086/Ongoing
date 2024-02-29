@@ -1,8 +1,7 @@
 astroML
 matplotlib
 numpy
-pylab
 pooch
 scipy
-sklearn
+scikit-learn
 vip_hci
