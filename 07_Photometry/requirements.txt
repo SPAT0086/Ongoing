@@ -1,5 +1,5 @@
 astropy
-matplotlib
+matplotlib>5.1.0
 numpy
 photutils
 scikit-image>0.17.0, <=0.18.3
