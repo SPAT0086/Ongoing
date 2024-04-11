@@ -1,0 +1,6 @@
+astropy
+matplotlib
+numpy
+photutils
+scikit-image>0.17.0, <=0.18.3
+scipy
