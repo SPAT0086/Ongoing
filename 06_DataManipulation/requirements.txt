@@ -1,6 +1,6 @@
 astropy
 astroquery
-matplotlib>5.1.0
+matplotlib
 numpy
 pandas
 photutils
