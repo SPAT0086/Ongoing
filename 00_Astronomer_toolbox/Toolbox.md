@@ -23,7 +23,8 @@ Another powerful IDE is pycharm: https://www.jetbrains.com/pycharm/ . Education 
 ### TOPCAT
 
 A powerful tool for manipulating big catalogs and querying remote databases in an interactive way. 
-https://www.star.bris.ac.uk/~mbt/topcat/ . TOPCAT is particularly brilliant when it comes to cross match entries in big catalogs (e.g. millions of objects)
+https://www.star.bris.ac.uk/~mbt/topcat/ . TOPCAT is particularly brilliant when it comes to cross match entries in big catalogs (e.g. millions of objects). Since a few years, there is developement of STILTS (https://www.star.bris.ac.uk/mbt/stilts/) which enables to script actions in TOPCAT and ease repeatability of catalog manipulations and figures in TOPCAT (see also a brief description of STILTS here https://arxiv.org/abs/2501.03299v1)
+
 
 ### Aladin Desktop 
 
